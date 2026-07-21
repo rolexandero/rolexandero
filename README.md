@@ -10,6 +10,9 @@
 [![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge)](https://matplotlib.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=2C3E50&color=1A252F)](https://plotly.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A2B4C?style=for-the-badge&logo=postgresql&logoColor=6DB3F2&labelColor=0F1A2E&color=0A1222)](https://www.postgresql.org/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iI0ZGNkIzNSIvPjx0ZXh0IHg9IjE2IiB5PSI0NCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZiI+Q0I8L3RleHQ+PC9zdmc+)](https://catboost.ai/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-3B7A9E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiMzQjdBOUUiLz48dGV4dCB4PSI4IiB5PSI0NCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZiI+TEdCPC90ZXh0Pjwvc3ZnPg==)](https://lightgbm.readthedocs.io/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-4B8BBE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiM0QjhCQkUiLz48dGV4dCB4PSI4IiB5PSI0NCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjI4IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZiI+WEdCPC90ZXh0Pjwvc3ZnPg==)](https://xgboost.readthedocs.io/)
 ## 👨🏻‍💻 Other Skills
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -23,6 +26,9 @@
 
 ## 💻 Projects
 - [Mushrooms classification and data analysis](https://github.com/Spaceboy450/data_analysis_hse.git)
+
+## 🔬 Science
+- **[Young Scientists Congress ITMO 2026](https://kmu.itmo.ru/ru) ([Certificate](https://disk.yandex.ru/i/f6_raWXFOdIpPA))**
 
 ## 🌐 Languages
 - Russian - native  
