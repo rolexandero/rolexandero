@@ -21,11 +21,12 @@
 
 ## 🎓 Education
 - **[HSE](https://www.hse.ru/en/) (Since 2024)**
-- **[Minor](https://electives.hse.ru/minor_intel/)**
+- **[Minor](https://electives.hse.ru/minor_intel/) (ML, DL)**
 - **[Yandex.Lyceum](https://lyceum.yandex.ru/) ([Diploma](https://disk.yandex.ru/i/-xnWh1ahPIE6Ww))**
 
 ## 💻 Projects
-- [Mushrooms classification and data analysis](https://github.com/Spaceboy450/data_analysis_hse.git)
+- **[University schedule database](https://github.com/rolexandero/university_schedule.git)**
+- **[Mushrooms classification and data analysis](https://github.com/Spaceboy450/data_analysis_hse.git)**
 
 ## 🔬 Science
 - **[Young Scientists Congress ITMO 2026](https://kmu.itmo.ru/ru) ([Certificate](https://disk.yandex.ru/i/f6_raWXFOdIpPA))**
